@@ -1,0 +1,8 @@
+com/rutgers/inventory/service/inventoryService/controller/InventoryController.class
+com/rutgers/inventory/service/inventoryService/repository/InventoryRepository.class
+com/rutgers/inventory/service/inventoryService/model/Inventory.class
+com/rutgers/inventory/service/inventoryService/dto/InventoryResponse.class
+com/rutgers/inventory/service/inventoryService/dto/InventoryResponse$InventoryResponseBuilder.class
+com/rutgers/inventory/service/inventoryService/InventoryServiceApplication.class
+com/rutgers/inventory/service/inventoryService/util/DataLoader.class
+com/rutgers/inventory/service/inventoryService/service/InventoryService.class

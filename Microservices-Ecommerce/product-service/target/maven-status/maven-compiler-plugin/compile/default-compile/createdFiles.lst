@@ -1,0 +1,13 @@
+com/rutgers/product/service/productService/dto/ProductResponse.class
+com/rutgers/product/service/productService/exceptions/ResourceNotFoundException.class
+com/rutgers/product/service/productService/config/WebClientConfig.class
+com/rutgers/product/service/productService/controller/ProductController.class
+com/rutgers/product/service/productService/dto/ProductRequest.class
+com/rutgers/product/service/productService/dto/ProductRequest$ProductRequestBuilder.class
+com/rutgers/product/service/productService/ProductServiceApplication.class
+com/rutgers/product/service/productService/dto/ProductResponse$ProductResponseBuilder.class
+com/rutgers/product/service/productService/exceptions/GlobalExceptionHandler.class
+com/rutgers/product/service/productService/model/Product.class
+com/rutgers/product/service/productService/service/ProductService.class
+com/rutgers/product/service/productService/repository/ProductRepository.class
+com/rutgers/product/service/productService/model/Product$ProductBuilder.class

@@ -1,0 +1,10 @@
+/Users/siddharthgupta/All Stuff/Rutgers MSCS/Spring 2023/CS 553/Project/Ecommerce/Microservices-Ecommerce/product-service/src/main/java/com/rutgers/product/service/productService/config/WebClientConfig.java
+/Users/siddharthgupta/All Stuff/Rutgers MSCS/Spring 2023/CS 553/Project/Ecommerce/Microservices-Ecommerce/product-service/src/main/java/com/rutgers/product/service/productService/dto/ProductResponse.java
+/Users/siddharthgupta/All Stuff/Rutgers MSCS/Spring 2023/CS 553/Project/Ecommerce/Microservices-Ecommerce/product-service/src/main/java/com/rutgers/product/service/productService/exceptions/ResourceNotFoundException.java
+/Users/siddharthgupta/All Stuff/Rutgers MSCS/Spring 2023/CS 553/Project/Ecommerce/Microservices-Ecommerce/product-service/src/main/java/com/rutgers/product/service/productService/ProductServiceApplication.java
+/Users/siddharthgupta/All Stuff/Rutgers MSCS/Spring 2023/CS 553/Project/Ecommerce/Microservices-Ecommerce/product-service/src/main/java/com/rutgers/product/service/productService/repository/ProductRepository.java
+/Users/siddharthgupta/All Stuff/Rutgers MSCS/Spring 2023/CS 553/Project/Ecommerce/Microservices-Ecommerce/product-service/src/main/java/com/rutgers/product/service/productService/model/Product.java
+/Users/siddharthgupta/All Stuff/Rutgers MSCS/Spring 2023/CS 553/Project/Ecommerce/Microservices-Ecommerce/product-service/src/main/java/com/rutgers/product/service/productService/exceptions/GlobalExceptionHandler.java
+/Users/siddharthgupta/All Stuff/Rutgers MSCS/Spring 2023/CS 553/Project/Ecommerce/Microservices-Ecommerce/product-service/src/main/java/com/rutgers/product/service/productService/service/ProductService.java
+/Users/siddharthgupta/All Stuff/Rutgers MSCS/Spring 2023/CS 553/Project/Ecommerce/Microservices-Ecommerce/product-service/src/main/java/com/rutgers/product/service/productService/dto/ProductRequest.java
+/Users/siddharthgupta/All Stuff/Rutgers MSCS/Spring 2023/CS 553/Project/Ecommerce/Microservices-Ecommerce/product-service/src/main/java/com/rutgers/product/service/productService/controller/ProductController.java
