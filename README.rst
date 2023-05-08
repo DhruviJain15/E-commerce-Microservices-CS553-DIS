@@ -105,7 +105,7 @@ Every service can be implemented in the same manner.
 
   - Replace the value of the Client_Secret variable in the first line of token.sh with the encoded key.
 
-  - On the terminal write, ``./token.sh``
+  - On the terminal write, ``./loadOrder.sh`` and ``./loadProduct.sh``
 
 Every service can be implemented in the this manner.
 
