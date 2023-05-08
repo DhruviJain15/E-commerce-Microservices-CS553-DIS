@@ -101,7 +101,7 @@ Every service can be implemented in the same manner.
 
     **Example:** c3ByaW5nLWNsb3VkLWNsaWVudDpIcjl0R25veW5QRHBGb0tBa0N5YnJpM3FNM2d6WTNTMg==
 
-  - Inside the 'token.sh' file,
+  - Inside the 'loadOrder.sh' file and 'loadProduct.sh',
 
   - Replace the value of the Client_Secret variable in the first line of token.sh with the encoded key.
 
